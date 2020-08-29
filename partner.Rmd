@@ -1,0 +1,28 @@
+---
+title: "Lab #1"
+author: "Ashley Sackpraseuth"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Your partner's full name and GitHub username.
+
+  Answer: Adam Ford, TheAdamBomb98
+  
+2. What did the Owner do in the most recent commit? What is the commit ID?
+
+  Answer: Add GMI pic. The commit ID is  e352bac3418f1baa0fe6ffabfabffc1a220e87b2
+  
+  3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+  
+  Answer: Yes. 
+
+4. Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+  Answer: Knitting was difficult at first because the image used in the hw1.Rmd was not found in the resource path. My partner then uploaded the image to his git repo and everything worked after that. 
+
+
